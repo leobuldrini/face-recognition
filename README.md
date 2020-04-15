@@ -5,3 +5,4 @@ To open it, you need to install python 3.7 and have the virtualenv installed.
 Once you have it installed, type .\Scripts\activate to initialize.
 Before you run the program, you need to train the software. To do that you need to run the "faces-train.py" file to do it.
 Once you have it trained, open the face_recognition.py file to start it.
+To close it, you just press "Q" on the keyboard.
